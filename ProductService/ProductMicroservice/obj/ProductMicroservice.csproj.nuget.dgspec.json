@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj": {}
+    "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\ProductMicroservice.csproj": {}
   },
   "projects": {
-    "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj": {
+    "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\ProductMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj",
+        "projectUniqueName": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\ProductMicroservice.csproj",
         "projectName": "ProductMicroservice",
-        "projectPath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj",
+        "projectPath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\ProductMicroservice.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\obj\\",
+        "outputPath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

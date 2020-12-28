@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NudnqEwtEt1AEAR4Oy5VC5JQTDLRSq7hDDUriJH1xsBPxhn5KCuqab/T3wgxtezxWduzJafNhHfijV/PCXeuSw==",
+  "dgSpecHash": "mvJDM3pXgv92+C+PYDrwn+4AAbdRr4yn5JtjtN9PE+uq7irRx8wmJdklwF0a+dgY7X+xWLn+awqo49sCkTiraQ==",
   "success": true,
-  "projectFilePath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj",
+  "projectFilePath": "G:\\study materials\\SWE 3.2\\SDA\\Assignment2\\ProductService\\ProductMicroservice\\ProductMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
