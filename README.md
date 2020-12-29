@@ -17,8 +17,8 @@
 
 4. run the following commands in nuget package manager console:
 
-# add-migration initial
-# update-database
+add-migration initial
+update-database
 
 5.this will create the necessary tables for the entities.
 
@@ -41,20 +41,20 @@
 1.open the ratingService folder with vs code.
 2.run the following command in the terminal-
 
-# npm install --save express mysql body-parser
+npm install --save express mysql body-parser
 3. run the query.sql file and this will create the database and table required for the service.
 
 4.make changes in the mysqlconnection according to your username and password of mysql server and database name ratingdb.
 
 5. run the project with this command
-# node index.js
+node index.js
 6. "connection established!Express server is runnig at port no : 3001!" should be displayed in console.
 
 7. open postman. send a POST request with url http://localhost:3001/rate along with input datas to add rating to a product. specify the productId,rating,raterId.
 
 8. see the list with a GET request to thiis url http://localhost:3001/ratings
 
-9. unfortunately, could not resolve the issues to make connection between two microservices,hence, failed to perform the remaining tasks.
+
 
 
 
